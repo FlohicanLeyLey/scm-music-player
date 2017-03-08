@@ -1,0 +1,30 @@
+#player,#player a{ color:#9C9C9C;  font-size:-----SKIN FEITA POR AMPLIA-R-----12px; font-family:arial;}
+#player{ background:url(http://www.themesltd.com/scaled/quote/i_like_crazy_people.png); background-position:top; background-color: #ffffff;}
+#player .mainImage{ background:url(http://static.tumblr.com/fnyhihr/5hfmhuzc7/pistola1.png); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url; }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  font-size: 9px; }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#000000;  }
+#player #seekerBuffered{ background-color:#ffffff; }
+#player #seekerSliderBase{ background-color:#1C1C1C; }
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(http://www.themesltd.com/scaled/quote/i_like_crazy_people.png); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#BORDA DA PLAYLIST;}
+#playlist .module{  color:#4F4F4F; background-color:#ffffff; }
+#playlist h3{ background:url(http://www.themesltd.com/scaled/quote/i_like_crazy_people.png); color:#4F4F4F; background-color:#ffffff;  }
+#playlist .even{background-color:#fff;}
+#playlist .odd{ background-color:#fff;}
+#playlist .focus{ background-color:#fff; color:#aaa;}
